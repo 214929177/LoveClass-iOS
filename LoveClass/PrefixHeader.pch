@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  LoveClass
+//  com.cyfuer.LoveClass
+//  Created by apple on 16/8/29.
+//  Copyright © 2016年 cyfuer. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "AppURL.h"
+#import "AppMacro.h"
+#import "AppUtils.h"
+#import "UIColor+extra.h"
+#import "UIView+KGViewExtend.h"
+#import "HYBNetworking.h"
+#import "YYModel.h"
+
+#import "User.h"
+#import "DFHud.h"
+
+#endif /* PrefixHeader_pch */

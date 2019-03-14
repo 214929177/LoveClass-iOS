@@ -1,0 +1,13 @@
+//
+//  UserInfoVC.h
+//  LoveClass
+//
+//  Created by apple on 16/10/17.
+//  Copyright © 2016年 cyfuer. All rights reserved.
+//
+
+#import "BaseVC.h"
+
+@interface UserInfoVC : BaseVC
+
+@end
